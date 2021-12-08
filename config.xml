@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <nom>Team Raid Saumurois</nom>
+  <port>COM9</port>
+  <dossier>E:\java\exercices\GeRaidv2</dossier>
+  <dossiers>E:\java\exercices\GeRaidv2</dossiers>
+  <ticket>1</ticket>
+  <print>0</print>
+  <defilement>1</defilement>
+  <vitesse>20</vitesse>
+  <points>0</points>
+  <temps>-300</temps>
+  <pointsPm>-10</pointsPm>
+  <tempsPm>1200</tempsPm>
+  <categories>
+    <categorie>
+      <nomLong>Masculin</nomLong>
+      <nomCourt>MAS</nomCourt>
+    </categorie>
+    <categorie>
+      <nomLong>Féminine</nomLong>
+      <nomCourt>FEM</nomCourt>
+    </categorie>
+    <categorie>
+      <nomLong>Mixte</nomLong>
+      <nomCourt>MIX</nomCourt>
+    </categorie>
+  </categories>
+</config>
+
